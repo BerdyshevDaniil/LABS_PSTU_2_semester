@@ -1,0 +1,7 @@
+﻿  task2_main.cpp
+C:\Users\berdy\source\repos\Lessons C++\Классы 13\Task_2\task2_main.cpp(12,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 13\Task_2\task2_main.cpp(43,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 13\Task_2\task2_main.cpp(84,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 13\Task_2\task2_main.cpp(100,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 13\Task_2\task2_main.cpp(180,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task_2.vcxproj -> C:\Users\berdy\source\repos\Lessons C++\Классы 13\x64\Debug\Task_2.exe
