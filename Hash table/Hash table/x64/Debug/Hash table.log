@@ -1,0 +1,6 @@
+﻿  Hash table.cpp
+C:\Users\berdy\source\repos\Lessons C++\Hash table\Hash table\Hash table.cpp(259,59): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Hash table\Hash table\Hash table.cpp(260,20): warning C4305: *=: усечение из "double" в "float"
+C:\Users\berdy\source\repos\Lessons C++\Hash table\Hash table\Hash table.cpp(358,38): warning C4101: count: неиспользованная локальная переменная
+C:\Users\berdy\source\repos\Lessons C++\Hash table\Hash table\Hash table.cpp(479,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Hash table.vcxproj -> C:\Users\berdy\source\repos\Lessons C++\Hash table\x64\Debug\Hash table.exe
