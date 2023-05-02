@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Task 3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  task3_main.cpp
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\task3_main.cpp(10,6): warning C4101: n: неиспользованная локальная переменная
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\List.h(38,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\List.h(32): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(int)"
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\task3_main.cpp(8): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(int)"
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\task3_main.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\List.h(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\List.h(49): message : во время компиляции функции-члена класс шаблон "T List<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Task 3\task3_main.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+  Task 3.vcxproj -> C:\Users\berdy\source\repos\Lessons C++\Классы 11\x64\Debug\Task_3.exe

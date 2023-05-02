@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Классы 11.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab11_main.cpp
+C:\Users\berdy\source\repos\Lessons C++\Классы 11\Классы 11\Lab11_main.cpp(26,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Классы 11.vcxproj -> C:\Users\berdy\source\repos\Lessons C++\Классы 11\x64\Debug\Task_1.exe
