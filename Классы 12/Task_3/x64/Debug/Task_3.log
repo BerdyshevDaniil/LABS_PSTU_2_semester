@@ -1,0 +1,18 @@
+﻿  task3_main.cpp
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\task3_main.cpp(11,6): warning C4101: n: неиспользованная локальная переменная
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\List.h(38,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\List.h(32): message : во время компиляции функции-члена класс шаблон "List<Pair>::List(int)"
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\task3_main.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<Pair>::List(int)"
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\task3_main.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\List.h(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\List.h(49): message : во время компиляции функции-члена класс шаблон "T List<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_3\task3_main.cpp(13): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::srednee(void)"
+          with
+          [
+              T=Pair
+          ]
+  Task_3.vcxproj -> C:\Users\berdy\source\repos\Lessons C++\Классы 12\x64\Debug\Task_3.exe

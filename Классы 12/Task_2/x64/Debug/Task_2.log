@@ -1,0 +1,4 @@
+﻿  task2_main.cpp
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_2\task2_main.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\berdy\source\repos\Lessons C++\Классы 12\Task_2\task2_main.cpp(26,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Task_2.vcxproj -> C:\Users\berdy\source\repos\Lessons C++\Классы 12\x64\Debug\Task_2.exe
