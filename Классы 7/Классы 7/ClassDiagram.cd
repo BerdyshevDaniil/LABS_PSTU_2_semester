@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="List&lt;T&gt;">
+    <Position X="4" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEigBAAAAAAkIEAAgACAAEAAEAAIAAgAAAAAgI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Iterator&lt;T&gt;">
+    <Position X="7.5" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAAAAAAAAQAEAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pair">
+    <Position X="1.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAgAAAAAAoEAAAAIAAQAAAAAAAAgABAAAAA=</HashCode>
+      <FileName>Pair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Node&lt;T&gt;">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
